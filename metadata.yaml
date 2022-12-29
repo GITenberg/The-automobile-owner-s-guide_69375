@@ -1,11 +1,16 @@
 _repo: The-automobile-owner-s-guide_69375
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69375-h/images/cover.jpg
 creator:
   author:
     agent_name: Scholl, Frank B.
     gutenberg_agent_id: '55232'
     url: http://www.gutenberg.org/2009/agents/55232
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69375#The-automobile-owner-s-guide
 gutenberg_issued: '2022-11-18'
 identifiers:
   gutenberg: '69375'
